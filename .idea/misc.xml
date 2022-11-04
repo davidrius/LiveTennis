@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/drawable/ic_resultados.xml" value="0.1705" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_calendario.xml" value="0.14817629179331307" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_dashboard.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_home.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_notifications.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_rankings.xml" value="0.14817629179331307" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/fragment_resultados.xml" value="0.14817629179331307" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/matches_card.xml" value="0.2776268115942029" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/ranking_card.xml" value="0.2776268115942029" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/layout/tournaments_card.xml" value="0.14817629179331307" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/drawable/bottom_nav_icon_color.xml" value="0.267" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/drawable/ic_resultados.xml" value="0.267" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/drawable/splash_screen.xml" value="0.1015" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/content_main.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/fragment_calendario.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/fragment_rankings.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/matches_card.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/layout/tournaments_card.xml" value="0.3046875" />
+        <entry key="..\:/Users/DAVID/AndroidStudioProjects/LiveTennis_3_11_22/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
